@@ -64,8 +64,8 @@ Overall, Docker's strengths make it a powerful and popular tool for building, de
 
 #### References
 
--[en.wikipedia.org/wiki/Docker_(software)](https://en.wikipedia.org/wiki/Docker_(software))
--[docs.docker.com](https://docs.docker.com/)
--[ibm.com/topics/containerization](https://www.ibm.com/topics/containerization)
--[ibm.com/topics/container-orchestration](https://www.ibm.com/topics/container-orchestration)
--[atlassian.com/microservices/microservices-architecture/kubernetes-vs-docker](https://www.atlassian.com/microservices/microservices-architecture/kubernetes-vs-docker#:~:text=While%20Docker%20is%20a%20container,CRI%20(Container%20Runtime%20Interface).)
+- [en.wikipedia.org/wiki/Docker_(software)](https://en.wikipedia.org/wiki/Docker_(software))
+- [docs.docker.com](https://docs.docker.com/)
+- [ibm.com/topics/containerization](https://www.ibm.com/topics/containerization)
+- [ibm.com/topics/container-orchestration](https://www.ibm.com/topics/container-orchestration)
+- [atlassian.com/microservices/microservices-architecture/kubernetes-vs-docker](https://www.atlassian.com/microservices/microservices-architecture/kubernetes-vs-docker#:~:text=While%20Docker%20is%20a%20container,CRI%20(Container%20Runtime%20Interface).)
