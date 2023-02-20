@@ -16,7 +16,7 @@ In the years that followed, Docker quickly gained popularity among developers an
 
 ## Features & Strengths
 
-Containerization: Docker uses containerization technology to create isolated environments for applications. Each container is a standalone unit that includes all the necessary components needed to run the application, such as the application code, runtime, system tools, libraries, and settings. 
+**Containerization:** Docker uses containerization technology to create isolated environments for applications. Each container is a standalone unit that includes all the necessary components needed to run the application, such as the application code, runtime, system tools, libraries, and settings. 
 
 Portability: Docker containers are designed to be portable, so they can be easily moved between different environments, such as development, testing, and production. This makes it easier for developers to build and deploy applications across different environments.
 
