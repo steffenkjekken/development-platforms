@@ -18,35 +18,35 @@ In the years that followed, Docker quickly gained popularity among developers an
 
 **Containerization:** Docker uses containerization technology to create isolated environments for applications. Each container is a standalone unit that includes all the necessary components needed to run the application, such as the application code, runtime, system tools, libraries, and settings. 
 
-Portability: Docker containers are designed to be portable, so they can be easily moved between different environments, such as development, testing, and production. This makes it easier for developers to build and deploy applications across different environments.
+**Portability:** Docker containers are designed to be portable, so they can be easily moved between different environments, such as development, testing, and production. This makes it easier for developers to build and deploy applications across different environments.
 
-Scalability: Docker’s portability and lightweight nature allows developers to easily scale applications by creating multiple instances of a container and distributing them across different hosts. 
+**Scalability:** Docker’s portability and lightweight nature allows developers to easily scale applications by creating multiple instances of a container and distributing them across different hosts. 
 
-Orchestration: Docker provides tools for orchestrating containers,  which can automate the operations tasks around deploying and running containerized applications and services. This includes features like automatic load balancing, service discovery, and container health monitoring.
+**Orchestration:** Docker provides tools for orchestrating containers,  which can automate the operations tasks around deploying and running containerized applications and services. This includes features like automatic load balancing, service discovery, and container health monitoring.
 
-Efficiency: Docker containers are lightweight and use fewer resources than traditional virtual machines, which makes them more efficient and cost-effective. Also, containers take up less memory and reuse components thanks to images.
+**Efficiency:** Docker containers are lightweight and use fewer resources than traditional virtual machines, which makes them more efficient and cost-effective. Also, containers take up less memory and reuse components thanks to images.
 
-Large Community: Docker has been an open-source project ever since its release. This has contributed to a large community and sustained growth. A Stack Overflow Developer Survey 2022 showed that Docker became a fundamental instrument for being a developer with 69 percent of professional programmers choosing it as their number one tool.
+**Large Community:** Docker has been an open-source project ever since its release. This has contributed to a large community and sustained growth. A Stack Overflow Developer Survey 2022 showed that Docker became a fundamental instrument for being a developer with 69 percent of professional programmers choosing it as their number one tool.
 
 ## Weaknesses
 
-Complexity: For users who are unfamiliar with containerization technology, Docker might be difficult to set up and administer. As a new user you must become familiar with new terms and concepts, such as images, containers, and registries. There is also no GUI, which means you have to work and perform all actions in the command-line. Some people could find this difficult, particularly those who are unfamiliar with Linux or command-line interfaces.
+**Complexity:** For users who are unfamiliar with containerization technology, Docker might be difficult to set up and administer. As a new user you must become familiar with new terms and concepts, such as images, containers, and registries. There is also no GUI, which means you have to work and perform all actions in the command-line. Some people could find this difficult, particularly those who are unfamiliar with Linux or command-line interfaces.
 
-Securicty: The lightweightness of containers has a cost in terms of security. There is a general risk that if a host system is attacked, numerous containers could be compromised at once as containers often share an operating system.
+**Securicty:** The lightweightness of containers has a cost in terms of security. There is a general risk that if a host system is attacked, numerous containers could be compromised at once as containers often share an operating system.
 
-Licensing: Docker's open source platform is free to use, but some of its enterprise features require a paid subscription.
+**Licensing:** Docker's open source platform is free to use, but some of its enterprise features require a paid subscription.
 
 
 ## Comparison
 
 In todays containerization space, there are several platforms, the two biggest are Docker and Kubernetes. Kubernetes is developed by Google and open-sourced in 2014. While both tools have similarities, they also have some key differences.
 
-Differences:
+**Differences:**
 Docker is primarily focused on containerization, while Kubernetes is designed for container orchestration and management. This means that while Docker can create and manage individual containers, Kubernetes is better suited for managing large-scale container deployments.
 
 Docker provides a platform for creating, distributing, and running containerized applications, while Kubernetes provides a framework for deploying and managing containers across a cluster of hosts.
 
-Similarities: 
+**Similarities:** 
 Both Docker and Kubernetes are open-source tools.
 Both tools are designed to facilitate the deployment and management of containerized applications.
 Both tools have large and active communities of developers and users, with many resources, tools, and support available.
